@@ -1,0 +1,1 @@
+INSERT INTO song VALUES ('Take On Me!', 'A-Ha');
